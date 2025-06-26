@@ -1,0 +1,23 @@
+{
+  "caiyun": [
+    {
+      "auth": ""
+    },
+    {
+      "auth": ""
+    },
+    {
+      "auth": ""
+    }
+  ],
+  "message": {
+    "workWeixin": {
+      "msgtype": "text",
+      "touser": "@all",
+      "agentid": 1000005,
+      "corpsecret": "",
+      "corpid": ""
+    },
+    "onlyError": false
+  }
+}
